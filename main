@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Website Example</title>
+ <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+ <header>
+ <h1>California State Roleplay</h1>
+ </header>
+ <nav>
+ <ul>
+ <li><a href="#rules">Rules</a></li>
+   </ul>
+ </nav>
+ <main>
+ <section id="rules">
+ <h2>Rules</h2>
+ <!-- Add your rules content here -->
+
+ </main>
+ <footer>
+ <!-- Never give up.-->
+ </footer>
+</body>
+</html>
